@@ -9,6 +9,7 @@
 
 <br/>
 
+<h2>Language and Tools</h2>
 <table>
   <td><img src="https://user-images.githubusercontent.com/20844589/174918549-dc6960dd-0c46-4009-b153-3be61a130d67.png" width='50px'/></td>
   <td><img src="https://user-images.githubusercontent.com/20844589/174918726-abc62d48-c3b4-4951-910a-d5d1ffb260b3.png" width='50px'/></td>
