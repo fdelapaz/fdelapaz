@@ -20,6 +20,9 @@
   
 </table>
 
+<h2>You can reach me</h2>
+<p>https://www.linkedin.com/in/felipe-de-la-paz-perez-45291664/</p>
+<p>dev@delapaz.cl</p>
 
 
 
